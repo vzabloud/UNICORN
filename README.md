@@ -1,5 +1,5 @@
 # Simulations for the UNICORN project
-Code for the simulation of nanocomposite scintillators.
+Code for double beta decay in QD simulation. **This framework is derived from code originally developed for the LHCb Electromagnetic Calorimeter Upgrade II. The principal contributors to the original code are Marco Pizzichemi, Loris Martinazzoli, and Matteo Salomoni. For further information, please write to marco.pizzichemi@cern.ch.**
 
 Requires version 11.1.2 of GEANT4 with C++ standard 17
 Recommended version of ROOT 6.28/06, which comes with C++ standard 17 as well.
@@ -41,4 +41,4 @@ One example of a config file is in the `example` folder.
 
  Be careful to change the absolute path of the `dbd` to reflect your PC configuration.
 
-Note: the simulation is currently under development.
+Remember: **this framework is derived from code originally developed for the LHCb Electromagnetic Calorimeter Upgrade II. The principal contributors to the original code are Marco Pizzichemi, Loris Martinazzoli, and Matteo Salomoni. For further information, please write to marco.pizzichemi@cern.ch.**
